@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f0624fd6-aa0a-465f-b1a6-24b5498a2a13" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/kotlin/src/lecture001/Lec01.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kotlin" beforeDir="false" afterPath="$PROJECT_DIR$/kotlin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kotlin/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/kotlin/src/lecture001/Lecture01.java" beforeDir="false" afterPath="$PROJECT_DIR$/kotlin/src/lecture001/Lecture01.java" afterDir="false" />
@@ -23,7 +24,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/kotlin" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
@@ -74,7 +75,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711670809358</updated>
-      <workItem from="1711670810928" duration="5247000" />
+      <workItem from="1711670810928" duration="5390000" />
     </task>
     <servers />
   </component>
