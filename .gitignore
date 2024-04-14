@@ -3,7 +3,7 @@ kotlin/out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 
-
+*.idea
 
 ### Eclipse ###
 .apt_generated
