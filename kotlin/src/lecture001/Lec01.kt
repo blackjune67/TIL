@@ -10,6 +10,6 @@ class Lec01 {
 
         println(number)
 //        println(number = 1)
-        var person = Person("aaaa") // 인스턴화 new 사용금지
+//        var person = Person("aaaa") // 인스턴화 new 사용금지
     }
 }

@@ -6,6 +6,6 @@ public class Lecture01 {
 
     Long number3 = 1_000L;
 
-    Person person = new Person("하이");
+//    Person person = new Person("하이");
 
 }
