@@ -1,0 +1,31 @@
+### Request 요청
+POST http://localhost:8080/request-body-string-v1
+Content-Type: text/json
+
+안녕하세요??
+
+### Requset 요청 v3
+POST http://localhost:8080/request-body-string-v3
+Content-Type: text/json
+
+하이하이???
+
+### Requset 요청 v3-1
+POST http://localhost:8080/request-body-string-v3-1
+Content-Type: text/json
+
+하이하이???
+
+### Requset JSON 요청 v3
+POST http://localhost:8080/request-body-json-v1
+Content-Type: application/json
+
+{"data":"hi"}
+
+### Requset JSON 요청 v5
+POST http://localhost:8080/request-body-json-v5
+Content-Type: application/json
+
+{
+"data":"hi"
+}
